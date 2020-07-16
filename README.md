@@ -1,9 +1,9 @@
 # Commit history art
 Dummy repo to try some fun commit history art for Github's profile contribution section.
 
-Current contribution section edits:
+Current editions performed:
 
- * Year 2018
+![](Screenshot.png)
 
 
 
